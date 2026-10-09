@@ -29,17 +29,7 @@ Right Click - Toggle Flag
 
 R           - Restart Game
 
-## Project Structure
 
-modern-minesweeper/
-
-├── assets/
-├── minesweeper/
-├── tests/
-├── main.py
-├── requirements.txt
-├── LICENSE
-└── README.md
 
 ## License
 
