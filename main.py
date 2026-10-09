@@ -52,7 +52,7 @@ class Minesweeper:
         # 难度选择
         bottom_frame = tk.Frame(self.root)
         bottom_frame.pack(pady=5)
-        for difficulty, (r, c, m) in {"Easy": (9, 9, 12), "Middle": (16, 16, 50), "Hard": (16, 30, 115)}.items():
+        for difficulty, (r, c, m) in {"Easy": (9, 9, 10), "Middle": (16, 16, 40), "Hard": (16, 30, 99)}.items():
             tk.Button(bottom_frame, text=difficulty,
                       command=lambda r=r, c=c, m=m: self.change_difficulty(r, c, m)).pack(side=tk.LEFT, padx=5)
 
