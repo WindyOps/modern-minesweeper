@@ -2,7 +2,6 @@
 A modern Minesweeper game built with Python and Pygame.
 
 ## Features
-<br>
 | Feature | Status |
 |----------|----------|
 | Classic Gameplay | ✅ |
@@ -12,7 +11,7 @@ A modern Minesweeper game built with Python and Pygame.
 | Flag System | ✅ |
 | Win/Loss Detection | ✅ |
 | Clean User Interface | ✅ |
-<br>
+
 ## Installation
 
 cd modern-minesweeper
