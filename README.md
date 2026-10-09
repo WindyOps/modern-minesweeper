@@ -3,13 +3,15 @@ A modern Minesweeper game built with Python and Pygame.
 
 ## Features
 
-- Classic Minesweeper gameplay
-- Safe first click
-- Multiple difficulty levels
-- Custom board sizes
-- Flag system
-- Win/Loss detection
-- Clean user interface
+| Feature | Status |
+|----------|----------|
+| Classic Gameplay | ✅ |
+| Safe First Click | ✅ |
+| Multiple Difficulty Levels | ✅ |
+| Custom Board Sizes | ✅ |
+| Flag System | ✅ |
+| Win/Loss Detection | ✅ |
+| Clean User Interface | ✅ |
 
 ## Installation
 
@@ -23,11 +25,11 @@ python main.py
 
 ## Controls
 
-Left Click  - Reveal Cell
-
-Right Click - Toggle Flag
-
-R           - Restart Game
+| Key | Action |
+|------|------|
+| Left Click | Reveal Cell |
+| Right Click | Toggle Flag |
+| R | Restart Game |
 
 
 
